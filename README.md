@@ -2,7 +2,7 @@
 
 <h1 align="center">  SK's Blog 
 
-  ![Created Badge](https://badges.pufler.dev/created/sumaiyakawsar/SKBlog?&style=plastic&color=black&labelColor=1AEE0B) ![Updated Badge](https://badges.pufler.dev/updated/sumaiyakawsar/SKBlog?&style=plastic&color=black&labelColor=0004FF) ![Visits Badge](https://badges.pufler.dev/visits/sumaiyakawsar/SKBlog?&style=plastic&color=black&labelColor=BF3F41) [![wakatime](https://wakatime.com/badge/github/sumaiyakawsar/SKBlog.svg)](https://wakatime.com/badge/github/sumaiyakawsar/SKBlog) [![License](https://img.shields.io/packagist/l/laravel/framework)](https://packagist.org/packages/laravel/framework) ![Reason Badge](https://img.shields.io/badge/Personal_Project-ffff00?style=plastic)
+  ![Created Badge](https://badges.pufler.dev/created/sumaiyakawsar/SKBlog?&style=plastic&color=black&labelColor=1AEE0B) ![Updated Badge](https://badges.pufler.dev/updated/sumaiyakawsar/SKBlog?&style=plastic&color=black&labelColor=0004FF) ![Visits Badge](https://badges.pufler.dev/visits/sumaiyakawsar/SKBlog?&style=plastic&color=black&labelColor=BF3F41) [![wakatime](https://wakatime.com/badge/github/sumaiyakawsar/SKBlog.svg)](https://wakatime.com/badge/github/sumaiyakawsar/SKBlog) [![License](https://img.shields.io/packagist/l/laravel/framework)](https://packagist.org/packages/laravel/framework) ![Reason Badge](https://img.shields.io/badge/Personal_Project-10b981?style=plastic)
   
   </h1>
  
